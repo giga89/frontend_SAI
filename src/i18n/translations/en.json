@@ -124,5 +124,10 @@
   "tutor.shares.description.3": "more than the Small bundle",
   "tutor.badgeSelector.whatYouReceive": "What you'll receive:",
   "toast.multiple.pending.transaction": "Running transaction %i of %c...",
-  "toast.multiple.success.transaction": "Transaction %i of %c completed"
+  "toast.multiple.success.transaction": "Transaction %i of %c completed",
+  "rewards.intro.title": "TODO it",
+  "rewards.intro.description": "TODO it",
+  "rewards.checkout.title": "TODO it",
+  "rewards.checkout.subtitle": "TODO it",
+  "rewards.checkout.confirmed.subtitle": "TODO it"
 }

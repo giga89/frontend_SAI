@@ -26,15 +26,15 @@ type ClusterRewardsAccounts = Record<
 
 export const rewardsSwapTranslations: SwapSetting["sections"] = {
   intro: {
-    title: "rewards.intro.title", //TODO
-    description: "rewards.intro.description", //TODO
+    title: "rewards.intro.title",
+    description: "rewards.intro.description",
   },
   checkout: {
-    title: "rewards.checkout.title", //TODO
-    subtitle: "rewards.checkout.subtitle", //TODO
+    title: "rewards.checkout.title",
+    subtitle: "rewards.checkout.subtitle",
   },
   confirmed: {
-    description: "rewards.checkout.confirmed.subtitle", //TODO
+    description: "rewards.checkout.confirmed.subtitle",
   },
 };
 
